@@ -1,0 +1,10 @@
+https://www.w3.org/standards/webdesign/
+
+https://www.w3schools.com/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/border
+
+https://html.spec.whatwg.org/
+
+https://github.com/gustavoguanabara/html-css/commit/adb860f7feadd53b0e20944b2af6a5867fd44767#diff-324bf6598db274786729b64a3ffa4a05d01e5d90118dced19994a5039e4da760
+
